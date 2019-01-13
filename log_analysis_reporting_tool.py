@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# Spencer Stenger
+# Spencer S.
 # Log Analysis Assignment
 #
 # A log analysis tool for reporting.
